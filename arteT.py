@@ -103,7 +103,8 @@ while True:
                 direccion = "derecha"
             else:
                 x -= x
-                ##ho
+                ##hola
+                #c
     tortuga.pendown()
     Screen.update()  # Actualiza la ventana
 
